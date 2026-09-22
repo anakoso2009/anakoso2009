@@ -1,13 +1,86 @@
-## Hi there, I'm Ana Koso
+# Hi, I'm Ana Luiza! 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> 
+### Systems Development Student | IT | Technology & Society
 
-# 
+I'm a Brazilian high school student passionate about **technology, creativity, learning, and social impact**.
+
+I enjoy turning ideas into projects, exploring new technologies, and understanding how technology can be used to create real opportunities.
+
+<br>
+
+---
+
+## About Me
+
+I'm currently studying **Systems Development** alongside high school, while working as an **IT Young Apprentice**.
+
+My journey in technology started with curiosity: I wanted to understand how things worked, and eventually started building things myself.
+
+Today, I'm interested in several areas of technology, especially:
+
+- Web Development
+- UX/UI Design
+- Data & Data Science
+- Technology & Innovation
+- Software Development
+- Technology and its impact on society
+
+I'm also interested in **education, social issues, public policy, and different cultures**, because I believe technology becomes more meaningful when it is connected to the world around us.
+
+> **Technology isn't just about writing code. It's about creating possibilities.**
+
+---
+
+## Technologies & Tools
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+</p>
+
+### Data & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,nodejs" />
+</p>
+
+### Design & Prototyping
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### Other Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,vscode" />
+</p>
+
+
+
+
+
+
+--- 
+
+# What I'm Looking For
+
+I'm interested in opportunities that allow me to:
+
+- Learn from experienced people
+- Work on meaningful projects
+- Develop my technical skills
+- Explore different areas of technology
+- Combine technology with social impact
+- Collaborate with people from different backgrounds
+- Keep challenging myself
+  
+---
+
+# Let's Connect!
+
+If you're interested in technology, projects, research, design, or just want to exchange ideas, feel free to reach out.
 
 <div> 
   <a href="https://instagram.com/anakoso_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -15,3 +88,11 @@
   <a href="https://www.linkedin.com/in/anakoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=anakoso2009&style=flat-square&color=9400D3" /></p> 
+</div>
+
+
+# Always curious. Always learning. Always building.
