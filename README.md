@@ -1,10 +1,22 @@
-# Hi, I'm Ana Luiza! 
+<div align="center">
 
-### Systems Development Student | IT | Technology & Society
+ # Hi, I'm Ana Luiza! 
+
+
+#### Systems Development Student | IT | Technology & Society
+
+
+
+<br>
+
+
+ 
 
 I'm a Brazilian high school student passionate about **technology, creativity, learning, and social impact**.
 
 I enjoy turning ideas into projects, exploring new technologies, and understanding how technology can be used to create real opportunities.
+
+</div>
 
 ---
 
