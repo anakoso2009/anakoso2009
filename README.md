@@ -27,7 +27,7 @@ Today, I'm interested in several areas of technology, especially:
 
 I'm also interested in **education, social issues, public policy, and different cultures**, because I believe technology becomes more meaningful when it is connected to the world around us.
 
-> **Technology isn't just about writing code. It's about creating possibilities.**
+
 
 ---
 
