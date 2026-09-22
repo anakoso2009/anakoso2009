@@ -6,27 +6,19 @@ I'm a Brazilian high school student passionate about **technology, creativity, l
 
 I enjoy turning ideas into projects, exploring new technologies, and understanding how technology can be used to create real opportunities.
 
-<br>
-
 ---
 
 ## About Me
 
-I'm currently studying **Systems Development** alongside high school, while working as an **IT Young Apprentice**.
-
-My journey in technology started with curiosity: I wanted to understand how things worked, and eventually started building things myself.
-
-Today, I'm interested in several areas of technology, especially:
+I'm currently studying **Systems Development** alongside high school. Today, I'm interested in several areas of technology, especially:
 
 - Web Development
 - UX/UI Design
-- Data & Data Science
 - Technology & Innovation
 - Software Development
 - Technology and its impact on society
 
 I'm also interested in **education, social issues, public policy, and different cultures**, because I believe technology becomes more meaningful when it is connected to the world around us.
-
 
 
 ---
@@ -56,10 +48,6 @@ I'm also interested in **education, social issues, public policy, and different 
 <p>
 <img src="https://skillicons.dev/icons?i=arduino,vscode" />
 </p>
-
-
-
-
 
 
 --- 
@@ -95,4 +83,4 @@ If you're interested in technology, projects, research, design, or just want to 
 </div>
 
 
-# Always curious. Always learning. Always building.
+# Always curious. Always learning. Always evolving.
