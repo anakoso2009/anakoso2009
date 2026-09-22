@@ -10,15 +10,17 @@
 <br>
 
 
- 
+</div> 
 
 I'm a Brazilian high school student passionate about **technology, creativity, learning, and social impact**.
 
 I enjoy turning ideas into projects, exploring new technologies, and understanding how technology can be used to create real opportunities.
 
-</div>
 
----
+
+
+<br>
+
 
 ## About Me
 
@@ -33,7 +35,7 @@ I'm currently studying **Systems Development** alongside high school. Today, I'm
 I'm also interested in **education, social issues, public policy, and different cultures**, because I believe technology becomes more meaningful when it is connected to the world around us.
 
 
----
+
 
 ## Technologies & Tools
 
@@ -62,7 +64,7 @@ I'm also interested in **education, social issues, public policy, and different 
 </p>
 
 
---- 
+
 
 # What I'm Looking For
 
@@ -76,7 +78,7 @@ I'm interested in opportunities that allow me to:
 - Collaborate with people from different backgrounds
 - Keep challenging myself
   
----
+
 
 # Let's Connect!
 
