@@ -35,7 +35,7 @@ I'm currently studying **Systems Development** alongside high school. Today, I'm
 I'm also interested in **education, social issues, public policy, and different cultures**, because I believe technology becomes more meaningful when it is connected to the world around us.
 
 
-
+<br>
 
 ## Technologies & Tools
 
@@ -64,7 +64,7 @@ I'm also interested in **education, social issues, public policy, and different 
 </p>
 
 
-
+<br>
 
 # What I'm Looking For
 
@@ -78,7 +78,7 @@ I'm interested in opportunities that allow me to:
 - Collaborate with people from different backgrounds
 - Keep challenging myself
   
-
+<br>
 
 # Let's Connect!
 
@@ -91,6 +91,7 @@ If you're interested in technology, projects, research, design, or just want to 
   
 </div>
 
+<br>
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=anakoso2009&style=flat-square&color=9400D3" /></p> 
