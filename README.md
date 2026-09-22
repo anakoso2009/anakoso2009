@@ -94,8 +94,7 @@ If you're interested in technology, projects, research, design, or just want to 
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=anakoso2009&style=flat-square&color=9400D3" /></p> 
+
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=anakoso2009&style=flat-square&color=9400D3" /></p> 
+
 </div>
-
-
-# Always curious. Always learning. Always evolving.
